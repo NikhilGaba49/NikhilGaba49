@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikhil</h1>
+<h1 align="center">Hi 👋, I'm Nikhil</h1> 
 <h3 align="center">Data Science student, passionate about solving real-world problems with data</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilgaba49&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilgaba49" /> </p>
