@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Object-oriented programming and further statistical techniques**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NikhilGaba49](https://github.com/NikhilGaba49)
-
 - 💬 Ask me about **Pandas and scikit-learn**
 
 - 📫 How to reach me **nikhilkumargaba@gmail.com**
