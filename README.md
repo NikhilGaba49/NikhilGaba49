@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [traffic-accident-analytics](https://github.com/NikhilGaba49/traffic-accident-analytics)
 
-- 🌱 I’m currently learning **Object-oriented programming and machine learning in Python**
+- 🌱 I’m currently learning **Object-oriented programming and Machine Learning in Python**
 
 - 📫 How to reach me: **nikhilkumargaba@gmail.com**
 
